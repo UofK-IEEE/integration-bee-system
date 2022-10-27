@@ -8,5 +8,5 @@
 * All the code will be stored in `/src`
 * `/components` is for reusable or complicated components that we might need (i.e Navbar, Sidebar,...etc)
 * `/pages` is for the actual pages of the websites (i.e Signin,Leaderboard,...etc)
-* `/styles` is where we store all the style module files, if you are new to CSS Modules [check this]("https://www.makeuseof.com/react-components-css-modules-style/").
+* `/styles` is where we store all the style module files, if you are new to CSS Modules [check this](https://www.makeuseof.com/react-components-css-modules-style/).
 * `/utils` is where we store utility components (i.e Private Routing Components)
