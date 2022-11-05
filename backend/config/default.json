@@ -1,0 +1,4 @@
+{
+  "MongoURI": "mongodb+srv://Hussien:hmah@testingCluster.eimem.gcp.mongodb.net/IntegrationBee?retryWrites=true&w=majority",
+  "JWTSecret": "secret"
+}
